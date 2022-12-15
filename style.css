@@ -63,3 +63,15 @@ textarea{
     text-align: center;
     margin: auto;
 }
+
+a:link {
+    color: #ffffff;
+    background-color: transparent;
+    text-decoration: underline;
+}
+  
+a:visited {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
